@@ -7,4 +7,4 @@ If you wan't these topics back, a reinstall of the Mod won't work! You will need
 If you don't care, because you want these topics gone in the first place, proceed to the downloads.
 Thanks for using my submods and I hope you enjoy these!
 
-If you want to use my submods as a base then feel free to but please credit me if you want to make them public.
+If you want to use my submods as a base then feel free to, but please credit me if you want to make them public.
